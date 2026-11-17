@@ -1,7 +1,6 @@
 body {
     margin: 0;
     overflow-x: hidden;
-    /* height: 100vh; */
     font-family: sans-serif;
 }
 
@@ -39,7 +38,7 @@ header {
 }
 
 header .header-img {
-    background-image: url(Rectangle\ 1.png);
+    background-image: url(Images/Rectangle\ 1.png);
     background-size: cover;
     height:786px;
     width: 100vw;
@@ -179,7 +178,7 @@ header .header-img {
 
 
 .second-section {
-    background-image: url(image1.png);
+    background-image: url(Images/image1.png);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -324,7 +323,7 @@ footer {
     /* HEADER */
 
     header .header-img {
-        background-image: url(Rectangle\ 1.png);
+        background-image: url(Images/Rectangle\ 1.png);
         background-size: cover;
         background-position: 32% 0;
         height:647px;
@@ -517,7 +516,7 @@ footer {
     /* 2ND SECTION */
 
     .second-section {
-        background-image: url(Group\ 25.png);
+        background-image: url(Images/Group\ 25.png);
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
